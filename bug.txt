@@ -1,0 +1,2 @@
+Selama pengujian, tidak ditemukan bug kritikal. Namun, ditemukan satu minor issue:
+- Judul lagu kadang tidak muncul sempurna saat diakses dari Safari iOS.
